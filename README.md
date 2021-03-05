@@ -39,5 +39,3 @@ implementation 'com.ippopay:IppoPaySDK:1.1.2'
 
 Please check [this link](https://pub.dev/packages/ippo_pay/example) for sample payment with above steps.
 
-```
-
