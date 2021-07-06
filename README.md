@@ -8,7 +8,7 @@ add the following dependency.
 ```
 
 dependencies:
-  ippo_pay: ^0.0.1
+  ippo_pay: ^0.0.2
 ```
 
 ## Step - 2 - Install SDK 
@@ -32,7 +32,7 @@ import 'package:ippo_pay/ippo_pay.dart';
 Now open Android Studio and open android/app/build.gradle file. Paste the following line of code. Once done, Sync the project to get the library installed.
 
 ```
-implementation 'com.ippopay:IppoPaySDK:1.1.2'
+implementation 'com.ippopay:IppoPaySDK:2.0.4'
 ```
 
 ## Step - 5 - Now you just need to follow the steps given in the below sample to integrate the remaining.
